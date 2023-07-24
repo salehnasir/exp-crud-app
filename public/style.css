@@ -1,0 +1,8 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
